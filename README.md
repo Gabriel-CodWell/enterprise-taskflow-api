@@ -10,6 +10,7 @@
 
 > A production-ready .NET 8 Web API built with **Clean Architecture**, demonstrating enterprise patterns including CQRS, optimistic concurrency, distributed caching, and asynchronous messaging — fully containerized with Docker Compose.
 
+> 🔗 **Front-end Integration:** Confira também o repositório [Enterprise.TaskFlow Web](https://github.com/Gabriel-CodeWell/enterprise-taskflow-web) — um Dashboard em React e TypeScript construído para consumir esta API e demonstrar o funcionamento de ponta a ponta.
 ---
 
 ## Table of Contents
